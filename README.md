@@ -35,6 +35,7 @@
 | 项目 | 状态 | 说明 |
 |------|------|------|
 | [SRC 漏洞挖掘研究](https://github.com/OLDBAI213/src-research) | 🟢 进行中 | 350KB+ 研究笔记，12个真实案例，4个框架深度分析 |
+| [hermes-feishu-zh](https://github.com/OLDBAI213/hermes-feishu-zh) | 🟢 v0.1.0 | Hermes Agent 飞书中文显示扩展，lark-cli 工具箱 |
 | 记忆系统 | 📋 研究中 | 模拟人脑机制的 AI 记忆系统，已完成理论研究 |
 
 </div>
