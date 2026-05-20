@@ -28,17 +28,28 @@
 
 ---
 
-## 🔥 2026 项目
+## 🔥 项目
 
 <div align="center">
 
 | 项目 | 状态 | 说明 |
 |------|------|------|
-| [SRC 漏洞挖掘研究](https://github.com/OLDBAI213/src-research) | 🟢 进行中 | 从零学 SRC 挖洞，研究笔记 + 实战案例 |
-| AI 安全工具评测 | 📋 规划中 | PentAGI / Shannon / Pentest-Swarm-AI 深度对比 |
-| 记忆系统 | 📋 规划中 | 模拟人脑机制的 AI 记忆系统 |
+| [SRC 漏洞挖掘研究](https://github.com/OLDBAI213/src-research) | 🟢 进行中 | 350KB+ 研究笔记，12个真实案例，4个框架深度分析 |
+| 记忆系统 | 📋 研究中 | 模拟人脑机制的 AI 记忆系统，已完成理论研究 |
 
 </div>
+
+---
+
+## 📚 研究亮点
+
+**SRC 挖洞研究库** — 不是教程搬运，是我自己的研究笔记、思维过程、工具分析、案例拆解：
+
+- 📖 [SRC 挖洞实战指南](https://github.com/OLDBAI213/src-research/blob/main/docs/SRC挖洞实战指南.md) — 补天/漏洞盒子完整使用指南
+- 🧠 [SRC 挖洞真实案例集](https://github.com/OLDBAI213/src-research/blob/main/docs/SRC挖洞真实案例集.md) — 12个案例，完整思维过程
+- ⚖️ [法律风险与合规指南](https://github.com/OLDBAI213/src-research/blob/main/docs/SRC法律风险与合规指南.md) — 白帽子必须知道的法律边界
+- 🔬 [PentAGI 深度研究](https://github.com/OLDBAI213/src-research/blob/main/docs/PentAGI深度研究.md) — AI 渗透框架选型
+- 📊 [能力评估](https://github.com/OLDBAI213/src-research/blob/main/docs/小白成为白客的能力评估.md) — AI Agent 渗透测试可行性分析
 
 ---
 
@@ -64,15 +75,6 @@ LLM:          Claude / Qwen3.5 / GPT
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLDBAI213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
-
----
-
-## 📝 最新动态
-
-<!-- AUTO-UPDATE: 每周更新 -->
-- 🔬 [SRC 挖洞统一方案](https://github.com/OLDBAI213/src-research) — 选型 PentAGI 作为主力框架
-- ⚖️ [法律风险指南](https://github.com/OLDBAI213/src-research) — 白帽子必须知道的法律边界
-- 🧠 [12 个真实案例](https://github.com/OLDBAI213/src-research) — 完整思维过程拆解
 
 ---
 
