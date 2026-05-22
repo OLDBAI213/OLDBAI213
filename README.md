@@ -21,9 +21,9 @@
 
 | 项目 | 仓库 | 说明 |
 |---|---|---|
-| 🇨🇳 **hermes-feishu-zh** | [→ Repo](https://github.com/OLDBAI213/hermes-feishu-zh) | Hermes Agent 飞书中文显示扩展 — 77 条汉化规则，一键安装 |
-| 🔬 **src-research** | [→ Repo](https://github.com/OLDBAI213/src-research) | SRC 漏洞挖掘研究库 — 350KB+ 研究笔记，12 个真实案例 |
+| 🇨🇳 **hermes-feishu-zh** | [→ Repo](https://github.com/OLDBAI213/hermes-feishu-zh) | Hermes Agent 飞书中文显示扩展 — 108 条汉化规则，一键安装 |
 | 📚 **awesome-ai-security** | [→ Repo](https://github.com/OLDBAI213/awesome-ai-security) | AI 安全资源精选 — 工具、论文、框架、社区 |
+| 🔬 **src-research** | [→ Repo](https://github.com/OLDBAI213/src-research) | SRC 漏洞挖掘研究库 — 350KB+ 研究笔记，12 个真实案例 |
 | 🎨 **hermes-tui-reverse-study** | [→ Repo](https://github.com/OLDBAI213/hermes-tui-reverse-study) | Hermes TUI 逆向工程 — 架构、设计、主题系统 |
 
 ---
@@ -38,8 +38,6 @@
 - 🛡️ **网络安全研究** — 漏洞挖掘、SRC 案例复现、安全工具链自动化
 - 📝 **知识开源** — 所有研究过程公开记录，从推理链到工具链，全透明
 - 🎨 **TUI 设计** — 复古终端风格、像素艺术、Hermes 界面美化
-
-**运营者：** 老白 — 相信「AI 应该自己干活」的践行者
 
 ---
 
